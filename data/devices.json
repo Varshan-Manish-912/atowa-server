@@ -2,7 +2,7 @@
     {
         "deviceId": "OHT-01",
         "heartbeat": false,
-        "timestamp": 186,
+        "timestamp": 82,
         "sensors": [
             {
                 "id": 1,
@@ -30,6 +30,6 @@
                 "state": "HIGH"
             }
         ],
-        "lastSeen": "2026-07-18T10:06:59.314Z"
+        "lastSeen": "2026-07-18T11:57:53.905Z"
     }
 ]
