@@ -1,0 +1,35 @@
+[
+    {
+        "deviceId": "OHT-01",
+        "heartbeat": false,
+        "timestamp": 186,
+        "sensors": [
+            {
+                "id": 1,
+                "name": "10% Sensor",
+                "state": "HIGH"
+            },
+            {
+                "id": 2,
+                "name": "30% Sensor",
+                "state": "HIGH"
+            },
+            {
+                "id": 3,
+                "name": "50% Sensor",
+                "state": "HIGH"
+            },
+            {
+                "id": 4,
+                "name": "70% Sensor",
+                "state": "HIGH"
+            },
+            {
+                "id": 5,
+                "name": "90% Sensor",
+                "state": "HIGH"
+            }
+        ],
+        "lastSeen": "2026-07-18T10:06:59.314Z"
+    }
+]
